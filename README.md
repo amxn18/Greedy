@@ -1,5 +1,4 @@
 # Greedy Algorithm
-# Greedy Algorithm Solutions
 
 This repository contains solutions to various Greedy Algorithm problems, implemented in C++. Each problem follows an optimal approach to solving Greedy-based challenges.
 
